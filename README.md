@@ -1,2 +1,2 @@
 # django-news
-news page
+This is the news page 
